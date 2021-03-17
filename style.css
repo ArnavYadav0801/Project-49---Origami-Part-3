@@ -1,0 +1,33 @@
+.h1{
+
+color: rgb(255, 0, 106); 
+    
+}
+
+body{
+
+background-color: yellow; 
+    
+}
+
+.header{
+
+background-color: blue;  
+display:flex;
+justify-content: space-between;  
+
+}
+
+.grid{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.border{
+
+border :solid ;
+
+}
